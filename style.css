@@ -1,0 +1,43 @@
+html {
+	background-color: #000000;
+	font-family: HelveticaNeue;
+}
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(font/HelveticaNeue.ttf);
+}
+
+#clock {
+	margin-left: -20px;
+}
+
+#stock {
+	height: 134px;
+	background-color: purple;
+	width: 800px;
+}
+
+#weather {
+	margin-left: -20px;
+	background-color: blue;
+	height: 450px;
+}
+
+#temp {
+	background-color: white;
+	height:290px;
+	margin-top: 15px;
+}
+
+#rain {
+	background-color: gray;
+	height:50px;
+	margin-top: 15px;
+}
+
+#calendar {
+	margin-left: -20px;
+	background-color: white;
+	height: 400px;
+}
